@@ -108,9 +108,9 @@ Material:
     - _EmissionMult: 0
     - _EnvironmentReflections: 1
     - _GlossMapScale: 1
-    - _Glossiness: 0
+    - _Glossiness: 0.61
     - _GlossyReflections: 1
-    - _Metallic: 0.844
+    - _Metallic: 1
     - _Mode: 3
     - _OcclusionStrength: 1
     - _Parallax: 0.02
